@@ -1,5 +1,5 @@
 
-package abstraction_and_interface.assignment_problems;
+package OOP_and_Polymorphism.assignment_problems;
 
 class SettlementMember {
     private static int counter = 2000;
