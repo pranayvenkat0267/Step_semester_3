@@ -1,4 +1,4 @@
-package oop_inheritance_polymorphism.assignment_problems;
+package Access_Modifiers_and_Encapsulation.assignment_problems;
 
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;

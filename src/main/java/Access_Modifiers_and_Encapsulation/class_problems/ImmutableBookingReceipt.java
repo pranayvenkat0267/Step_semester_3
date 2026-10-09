@@ -1,4 +1,4 @@
-package oop_inheritance_polymorphism.class_problems;
+package Access_Modifiers_and_Encapsulation.class_problems;
 
 import java.util.Arrays;
 
