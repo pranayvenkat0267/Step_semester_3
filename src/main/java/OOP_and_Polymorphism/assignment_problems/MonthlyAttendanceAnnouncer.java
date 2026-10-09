@@ -1,6 +1,6 @@
 
 
-package abstraction_and_interface.assignment_problems;
+package OOP_and_Polymorphism.assignment_problems;
 
 class AttendanceMember {
     String memberId;
